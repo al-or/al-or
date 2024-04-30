@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE" alt="Software Developer">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvisme.co%2Fblog%2Fwp-content%2Fuploads%2F2020%2F03%2Fanimation-software-header-wide.gif&f=1&nofb=1&ipt=80d3f893f2b89eff3e1e16d3942f7d812062842a0d7957d3cc7afd562a833a84&ipo=images">
 </div>
 
 ---
 
 ```diff
-- ¡Hola, soy yo! 👋
+- Hi there 👋, soy yo. 
 ```
----
----
----
 
 
 
