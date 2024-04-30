@@ -7,7 +7,8 @@
 ```diff
 - Hi there 👋, soy yo. 
 ```
-
+---
+[![View Profile](https://img.shields.io/badge/View-Profile-blue)](https://github.com/al-or)
 
 
 
