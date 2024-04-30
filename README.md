@@ -2,7 +2,7 @@
 ```diff
 - Hi there 👋, soy yo. 
 ```
-![Software Developer](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Software Developer" width="200" height="200">
 
 
 
