@@ -1,7 +1,6 @@
 ###
 ```diff
-- Hi there 👋
-+ soy yo
+- Hi there 👋, soy yo. 
 
 <!--
 **al-or/al-or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
