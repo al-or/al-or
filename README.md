@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height=59 alt="vscode logo" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height=53 width=50 alt="vscode logo" />
 </div>
 
 
