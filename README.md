@@ -2,8 +2,10 @@
 ```diff
 - Hi there 👋, soy yo. 
 ```
-https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif
 ![Software Developer](https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif "Dev")
+
+
+
 <!--
 **al-or/al-or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
