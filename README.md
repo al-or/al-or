@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋!</h2>
+
 ```diff
 - Soy yo. 
 ```
+
 ---
 <div align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvisme.co%2Fblog%2Fwp-content%2Fuploads%2F2020%2F03%2Fanimation-software-header-wide.gif&f=1&nofb=1&ipt=80d3f893f2b89eff3e1e16d3942f7d812062842a0d7957d3cc7afd562a833a84&ipo=images">
