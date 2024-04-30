@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="vscode logo" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height=75 alt="vscode logo" />
 </div>
 
 
