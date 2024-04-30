@@ -1,4 +1,5 @@
 ###
+<strong>
 ```diff
 - Hi there 👋, soy yo. 
 ```
