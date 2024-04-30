@@ -1,23 +1,13 @@
+<h2 align="left">Hi 👋!</h2>
+```diff
+- Soy yo. 
+```
+---
 <div align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvisme.co%2Fblog%2Fwp-content%2Fuploads%2F2020%2F03%2Fanimation-software-header-wide.gif&f=1&nofb=1&ipt=80d3f893f2b89eff3e1e16d3942f7d812062842a0d7957d3cc7afd562a833a84&ipo=images">
 </div>
 
 ---
-
-```diff
-- Hi there 👋, soy yo. 
-```
----
-[![View Profile](https://img.shields.io/badge/View-Profile-blue)](https://github.com/al-or)
----
-<h2 align="left">Hi 👋!</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-or&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-or&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -29,13 +19,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/al-or/al-or/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <!--
