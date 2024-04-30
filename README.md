@@ -1,6 +1,6 @@
 ###
 ```diff
-- Hi there 👋, soy (yo). 
+- Hi there 👋, soy yo. 
 ```
 
 <!--
