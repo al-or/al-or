@@ -2,9 +2,11 @@
 ```diff
 - Hi there 👋, soy yo. 
 ```
-<div style="text-align:center;">
-    <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Software Developer" width="200" height="200">
-</div>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Software Developer" width="200" height="200">
+</p>
+
 
 
 
