@@ -1,4 +1,4 @@
-## Hi there 👋, soy <span style="color:blue">yo</span>
+### <span style="color:blue">Hi there 👋, soy yo</span>
 <!--
 **al-or/al-or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
